@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Code",""],["Error",""]],"struct":[["BoxBody","Dynamic `Send` body object."],["Encode","A protobuf encoded gRPC response body"],["Request",""],["Response",""],["Status",""]],"trait":[["Body","A body to send and receive gRPC messages."]],"type":[["Streaming","A stream of inbound gRPC messages"]]});
